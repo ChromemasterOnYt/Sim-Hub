@@ -1,8 +1,5 @@
-
-if game.GameId ~= "5293755937" then do
+if game.GameId ~= "5293755937" then 
     print('pog')
-    script.Parent.Visible = false
-end
-else then
-  print'Game is not compatible.'
+else
+    print'Game is not compatible.'
 end
